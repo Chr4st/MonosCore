@@ -1,0 +1,6 @@
+main: sergittos\flanbacore\FlanbaCore
+name: MonosCore
+api: 4.0.0
+version: 1.0.0
+depend: PartyEngine
+author: Chr4st and sergittos
